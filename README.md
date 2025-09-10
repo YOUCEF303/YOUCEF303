@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Youcef
 
-<!--
-**YOUCEF303/YOUCEF303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a beginner web developer passionate about building clean and modern designs using **HTML & CSS**.  
+Currently learning **JavaScript** to take my projects to the next level 🚀.
 
-Here are some ideas to get you started:
+## 🌟 My Projects
+- [Photo Gallery](https://youcef303.github.io/Photo-Gallery/)  
+- [Login Page](https://youcef303.github.io/login-page/)  
+- [Landing Page](https://youcef303.github.io/Landing-page-/)  
+- [Profile Card](https://youcef303.github.io/profile-card/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- HTML  
+- CSS  
+- Responsive Design  
+
+## 📫 Contact
+- GitHub: [YOUCEF303](https://github.com/YOUCEF303)  
+- [![Email Me](https://img.shields.io/badge/Email-youcef303git%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:youcef303git@gmail.com)
