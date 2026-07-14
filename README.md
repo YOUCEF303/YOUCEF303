@@ -4,7 +4,7 @@ I’m a beginner web developer passionate about building clean and modern design
 Currently learning to take my projects to the next level 🚀.
 
 ## 🌟 My Projects
--[Space Mission Roster](https://github.com/YOUCEF303/Space-Mission-Roster)
+- [Space Mission Roster](https://github.com/YOUCEF303/Space-Mission-Roster)
 - [Photo Gallery](https://youcef303.github.io/Photo-Gallery/)
 - [Weather App](https://github.com/YOUCEF303/Weather-Web)
 - [Login Page](https://youcef303.github.io/login-page/)  
