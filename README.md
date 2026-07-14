@@ -1,10 +1,12 @@
 # 👋 Hi, I'm Youcef
 
-I’m a beginner web developer passionate about building clean and modern designs using **HTML & CSS**.  
-Currently learning **JavaScript** to take my projects to the next level 🚀.
+I’m a beginner web developer passionate about building clean and modern designs using **HTML & CSS & JAVASCRIPT**.  
+Currently learning to take my projects to the next level 🚀.
 
 ## 🌟 My Projects
-- [Photo Gallery](https://youcef303.github.io/Photo-Gallery/)  
+-[Space Mission Roster](https://github.com/YOUCEF303/Space-Mission-Roster)
+- [Photo Gallery](https://youcef303.github.io/Photo-Gallery/)
+- [Weather App](https://github.com/YOUCEF303/Weather-Web)
 - [Login Page](https://youcef303.github.io/login-page/)  
 - [Landing Page](https://youcef303.github.io/Landing-page-/)  
 - [Profile Card](https://youcef303.github.io/profile-card/)
@@ -12,7 +14,8 @@ Currently learning **JavaScript** to take my projects to the next level 🚀.
 ## 🛠️ Skills
 - HTML  
 - CSS  
-- Responsive Design  
+- Responsive Design
+- Javascript
 
 ## 📫 Contact
 - GitHub: [YOUCEF303](https://github.com/YOUCEF303)  
