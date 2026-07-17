@@ -18,5 +18,5 @@ Currently learning to take my projects to the next level 🚀.
 - Javascript
 
 ## 📫 Contact
-- GitHub: [YOUCEF303](https://github.com/YOUCEF303)  
+- GitHub: [echO-sudo-1](https://github.com/echO-sudo-1)  
 - [![Email Me](https://img.shields.io/badge/Email-youcef303git%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:youcef303git@gmail.com)
